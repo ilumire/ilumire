@@ -1,6 +1,6 @@
 Hello there, I’m @ilumire.
 - I was born at a very young age,
-- I am currently learning Computer Science,
+- I am currently learning Computer Science (CS50),
 - I will always be in perpetual beta.
 - Contact me at ilumire@icloud.com
 
